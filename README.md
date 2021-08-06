@@ -7,3 +7,6 @@ With the help of the stimulus checks, a low interest rate, and ample free time a
 
 The link to the Jupyter notebook:
 https://colab.research.google.com/drive/1U7ydNtSHhiSM-5t-FEY2KdHnYynP4r3w?usp=sharing
+
+Future considerations: use this website to generate a list of stock tickers that are likely to give interesting data. These stocks are known as meme stocks...
+https://memestocks.org/
