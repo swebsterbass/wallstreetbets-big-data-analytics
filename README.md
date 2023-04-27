@@ -5,8 +5,4 @@ With the help of the stimulus checks, a low interest rate, and ample free time a
 3) we focus specifically on excess returns and excess volume, instead of the price or the direction of the price movement. This is both more percise, and more complementary to exisiting studies on the topic;  
 4) unlike most public projects that focuses on using Reddit titles and assigning them equal weight, we use both comment titles and comments themselves, weighted by their upvotes.
 
-The link to the Jupyter notebook:
-https://colab.research.google.com/drive/1U7ydNtSHhiSM-5t-FEY2KdHnYynP4r3w?usp=sharing
-
-Future considerations: use this website to generate a list of stock tickers that are likely to give interesting data. These stocks are known as meme stocks...
-https://memestocks.org/
+Google Colab was our development environment. The [colaboratory notebook](https://colab.research.google.com/drive/1E7U34rzJGsXTpWoUt-SBchc4TK_P5qJ6) may be more up to date than this GitHub.
